@@ -1,0 +1,325 @@
+﻿country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+Russian Federation,1989,male,75+ years,1393,1349100,103.25,Russian Federation1989,,"506,500,173,960",3740,G.I. Generation
+Russian Federation,1989,male,35-54 years,12030,18058500,66.62,Russian Federation1989,,"506,500,173,960",3740,Silent
+Russian Federation,1989,male,55-74 years,6250,9383700,66.6,Russian Federation1989,,"506,500,173,960",3740,G.I. Generation
+Russian Federation,1989,male,25-34 years,6856,12748800,53.78,Russian Federation1989,,"506,500,173,960",3740,Boomers
+Russian Federation,1989,female,75+ years,1677,4738100,35.39,Russian Federation1989,,"506,500,173,960",3740,G.I. Generation
+Russian Federation,1989,male,15-24 years,2581,10073900,25.62,Russian Federation1989,,"506,500,173,960",3740,Generation X
+Russian Federation,1989,female,55-74 years,3042,15522500,19.6,Russian Federation1989,,"506,500,173,960",3740,G.I. Generation
+Russian Federation,1989,female,35-54 years,2326,19316700,12.04,Russian Federation1989,,"506,500,173,960",3740,Silent
+Russian Federation,1989,female,25-34 years,827,12470000,6.63,Russian Federation1989,,"506,500,173,960",3740,Boomers
+Russian Federation,1989,female,15-24 years,628,9650700,6.51,Russian Federation1989,,"506,500,173,960",3740,Generation X
+Russian Federation,1989,male,5-14 years,263,11233200,2.34,Russian Federation1989,,"506,500,173,960",3740,Generation X
+Russian Federation,1989,female,5-14 years,48,10898600,0.44,Russian Federation1989,,"506,500,173,960",3740,Generation X
+Russian Federation,1990,male,75+ years,1366,1382500,98.81,Russian Federation1990,,"516,814,274,022",3789,G.I. Generation
+Russian Federation,1990,male,35-54 years,12517,18495100,67.68,Russian Federation1990,,"516,814,274,022",3789,Silent
+Russian Federation,1990,male,55-74 years,6401,9577500,66.83,Russian Federation1990,,"516,814,274,022",3789,G.I. Generation
+Russian Federation,1990,male,25-34 years,6868,12477900,55.04,Russian Federation1990,,"516,814,274,022",3789,Boomers
+Russian Federation,1990,female,75+ years,1608,4847400,33.17,Russian Federation1990,,"516,814,274,022",3789,G.I. Generation
+Russian Federation,1990,male,15-24 years,2874,10059700,28.57,Russian Federation1990,,"516,814,274,022",3789,Generation X
+Russian Federation,1990,female,55-74 years,3064,15534000,19.72,Russian Federation1990,,"516,814,274,022",3789,G.I. Generation
+Russian Federation,1990,female,35-54 years,2467,19730400,12.5,Russian Federation1990,,"516,814,274,022",3789,Silent
+Russian Federation,1990,female,25-34 years,910,12197600,7.46,Russian Federation1990,,"516,814,274,022",3789,Boomers
+Russian Federation,1990,female,15-24 years,641,9649700,6.64,Russian Federation1990,,"516,814,274,022",3789,Generation X
+Russian Federation,1990,male,5-14 years,260,11397000,2.28,Russian Federation1990,,"516,814,274,022",3789,Generation X
+Russian Federation,1990,female,5-14 years,52,11049400,0.47,Russian Federation1990,,"516,814,274,022",3789,Generation X
+Russian Federation,1991,male,75+ years,1326,1371000,96.72,Russian Federation1991,,"517,962,962,963",3773,G.I. Generation
+Russian Federation,1991,male,35-54 years,12746,18782900,67.86,Russian Federation1991,,"517,962,962,963",3773,Boomers
+Russian Federation,1991,male,55-74 years,6566,9894400,66.36,Russian Federation1991,,"517,962,962,963",3773,Silent
+Russian Federation,1991,male,25-34 years,6901,12157500,56.76,Russian Federation1991,,"517,962,962,963",3773,Boomers
+Russian Federation,1991,female,75+ years,1510,4831000,31.26,Russian Federation1991,,"517,962,962,963",3773,G.I. Generation
+Russian Federation,1991,male,15-24 years,2984,10112700,29.51,Russian Federation1991,,"517,962,962,963",3773,Generation X
+Russian Federation,1991,female,55-74 years,2926,15781500,18.54,Russian Federation1991,,"517,962,962,963",3773,Silent
+Russian Federation,1991,female,35-54 years,2429,19987200,12.15,Russian Federation1991,,"517,962,962,963",3773,Boomers
+Russian Federation,1991,female,25-34 years,888,11901200,7.46,Russian Federation1991,,"517,962,962,963",3773,Boomers
+Russian Federation,1991,female,15-24 years,642,9697300,6.62,Russian Federation1991,,"517,962,962,963",3773,Generation X
+Russian Federation,1991,male,5-14 years,298,11561800,2.58,Russian Federation1991,,"517,962,962,963",3773,Millenials
+Russian Federation,1991,female,5-14 years,65,11204500,0.58,Russian Federation1991,,"517,962,962,963",3773,Millenials
+Russian Federation,1992,male,75+ years,1233,1340500,91.98,Russian Federation1992,,"460,290,556,901",3333,G.I. Generation
+Russian Federation,1992,male,35-54 years,15824,18933500,83.58,Russian Federation1992,,"460,290,556,901",3333,Boomers
+Russian Federation,1992,male,55-74 years,8014,10319200,77.66,Russian Federation1992,,"460,290,556,901",3333,Silent
+Russian Federation,1992,male,25-34 years,7958,11773600,67.59,Russian Federation1992,,"460,290,556,901",3333,Boomers
+Russian Federation,1992,male,15-24 years,3447,10235100,33.68,Russian Federation1992,,"460,290,556,901",3333,Generation X
+Russian Federation,1992,female,75+ years,1458,4741300,30.75,Russian Federation1992,,"460,290,556,901",3333,G.I. Generation
+Russian Federation,1992,female,55-74 years,3133,16206600,19.33,Russian Federation1992,,"460,290,556,901",3333,Silent
+Russian Federation,1992,female,35-54 years,2768,20093200,13.78,Russian Federation1992,,"460,290,556,901",3333,Boomers
+Russian Federation,1992,female,25-34 years,990,11561000,8.56,Russian Federation1992,,"460,290,556,901",3333,Boomers
+Russian Federation,1992,female,15-24 years,704,9791500,7.19,Russian Federation1992,,"460,290,556,901",3333,Generation X
+Russian Federation,1992,male,5-14 years,318,11747200,2.71,Russian Federation1992,,"460,290,556,901",3333,Millenials
+Russian Federation,1992,female,5-14 years,76,11376200,0.67,Russian Federation1992,,"460,290,556,901",3333,Millenials
+Russian Federation,1993,male,35-54 years,20256,18908000,107.13,Russian Federation1993,,"435,083,713,851",3160,Boomers
+Russian Federation,1993,male,75+ years,1364,1302200,104.75,Russian Federation1993,,"435,083,713,851",3160,G.I. Generation
+Russian Federation,1993,male,55-74 years,10118,10681300,94.73,Russian Federation1993,,"435,083,713,851",3160,Silent
+Russian Federation,1993,male,25-34 years,9328,11260400,82.84,Russian Federation1993,,"435,083,713,851",3160,Boomers
+Russian Federation,1993,male,15-24 years,4347,10306400,42.18,Russian Federation1993,,"435,083,713,851",3160,Generation X
+Russian Federation,1993,female,75+ years,1468,4615000,31.81,Russian Federation1993,,"435,083,713,851",3160,G.I. Generation
+Russian Federation,1993,female,55-74 years,3433,16579000,20.71,Russian Federation1993,,"435,083,713,851",3160,Silent
+Russian Federation,1993,female,35-54 years,3163,20012400,15.81,Russian Federation1993,,"435,083,713,851",3160,Boomers
+Russian Federation,1993,female,25-34 years,1154,11063800,10.43,Russian Federation1993,,"435,083,713,851",3160,Boomers
+Russian Federation,1993,female,15-24 years,785,9824100,7.99,Russian Federation1993,,"435,083,713,851",3160,Generation X
+Russian Federation,1993,male,5-14 years,337,11763700,2.86,Russian Federation1993,,"435,083,713,851",3160,Millenials
+Russian Federation,1993,female,5-14 years,93,11376500,0.82,Russian Federation1993,,"435,083,713,851",3160,Millenials
+Russian Federation,1994,male,35-54 years,22338,19044200,117.3,Russian Federation1994,,"395,077,301,248",2853,Boomers
+Russian Federation,1994,male,75+ years,1412,1281400,110.19,Russian Federation1994,,"395,077,301,248",2853,G.I. Generation
+Russian Federation,1994,male,55-74 years,11431,11006300,103.86,Russian Federation1994,,"395,077,301,248",2853,Silent
+Russian Federation,1994,male,25-34 years,10310,10947200,94.18,Russian Federation1994,,"395,077,301,248",2853,Boomers
+Russian Federation,1994,male,15-24 years,5177,10518500,49.22,Russian Federation1994,,"395,077,301,248",2853,Generation X
+Russian Federation,1994,female,75+ years,1454,4526500,32.12,Russian Federation1994,,"395,077,301,248",2853,G.I. Generation
+Russian Federation,1994,female,55-74 years,3489,16977700,20.55,Russian Federation1994,,"395,077,301,248",2853,Silent
+Russian Federation,1994,female,35-54 years,3257,20124300,16.18,Russian Federation1994,,"395,077,301,248",2853,Boomers
+Russian Federation,1994,female,25-34 years,1198,10708700,11.19,Russian Federation1994,,"395,077,301,248",2853,Boomers
+Russian Federation,1994,female,15-24 years,915,10036800,9.12,Russian Federation1994,,"395,077,301,248",2853,Generation X
+Russian Federation,1994,male,5-14 years,364,11857400,3.07,Russian Federation1994,,"395,077,301,248",2853,Millenials
+Russian Federation,1994,female,5-14 years,75,11447200,0.66,Russian Federation1994,,"395,077,301,248",2853,Millenials
+Russian Federation,1995,male,35-54 years,21706,19249600,112.76,Russian Federation1995,,"395,531,066,563",2844,Boomers
+Russian Federation,1995,male,55-74 years,11152,11227000,99.33,Russian Federation1995,,"395,531,066,563",2844,Silent
+Russian Federation,1995,male,75+ years,1182,1258900,93.89,Russian Federation1995,,"395,531,066,563",2844,G.I. Generation
+Russian Federation,1995,male,25-34 years,9787,10700700,91.46,Russian Federation1995,,"395,531,066,563",2844,Generation X
+Russian Federation,1995,male,15-24 years,5733,10678300,53.69,Russian Federation1995,,"395,531,066,563",2844,Generation X
+Russian Federation,1995,female,75+ years,1546,4436700,34.85,Russian Federation1995,,"395,531,066,563",2844,G.I. Generation
+Russian Federation,1995,female,55-74 years,3499,17293700,20.23,Russian Federation1995,,"395,531,066,563",2844,Silent
+Russian Federation,1995,female,35-54 years,3328,20339300,16.36,Russian Federation1995,,"395,531,066,563",2844,Boomers
+Russian Federation,1995,female,25-34 years,1179,10375900,11.36,Russian Federation1995,,"395,531,066,563",2844,Generation X
+Russian Federation,1995,female,15-24 years,1003,10253200,9.78,Russian Federation1995,,"395,531,066,563",2844,Generation X
+Russian Federation,1995,male,5-14 years,355,11854400,2.99,Russian Federation1995,,"395,531,066,563",2844,Millenials
+Russian Federation,1995,female,5-14 years,78,11419400,0.68,Russian Federation1995,,"395,531,066,563",2844,Millenials
+Russian Federation,1996,male,35-54 years,20562,19507100,105.41,Russian Federation1996,,"391,719,993,757",2813,Boomers
+Russian Federation,1996,male,75+ years,1192,1242800,95.91,Russian Federation1996,,"391,719,993,757",2813,G.I. Generation
+Russian Federation,1996,male,55-74 years,10754,11361400,94.65,Russian Federation1996,,"391,719,993,757",2813,Silent
+Russian Federation,1996,male,25-34 years,9214,10443600,88.23,Russian Federation1996,,"391,719,993,757",2813,Generation X
+Russian Federation,1996,male,15-24 years,5784,10772000,53.69,Russian Federation1996,,"391,719,993,757",2813,Generation X
+Russian Federation,1996,female,75+ years,1418,4369100,32.46,Russian Federation1996,,"391,719,993,757",2813,G.I. Generation
+Russian Federation,1996,female,55-74 years,3205,17502200,18.31,Russian Federation1996,,"391,719,993,757",2813,Silent
+Russian Federation,1996,female,35-54 years,2953,20618800,14.32,Russian Federation1996,,"391,719,993,757",2813,Boomers
+Russian Federation,1996,female,25-34 years,1127,10062400,11.2,Russian Federation1996,,"391,719,993,757",2813,Generation X
+Russian Federation,1996,female,15-24 years,904,10409100,8.68,Russian Federation1996,,"391,719,993,757",2813,Generation X
+Russian Federation,1996,male,5-14 years,320,11716700,2.73,Russian Federation1996,,"391,719,993,757",2813,Millenials
+Russian Federation,1996,female,5-14 years,78,11267400,0.69,Russian Federation1996,,"391,719,993,757",2813,Millenials
+Russian Federation,1997,male,75+ years,1205,1241100,97.09,Russian Federation1997,,"404,926,534,140",2907,G.I. Generation
+Russian Federation,1997,male,35-54 years,18973,19913400,95.28,Russian Federation1997,,"404,926,534,140",2907,Boomers
+Russian Federation,1997,male,55-74 years,10726,11327500,94.69,Russian Federation1997,,"404,926,534,140",2907,Silent
+Russian Federation,1997,male,25-34 years,8222,10242100,80.28,Russian Federation1997,,"404,926,534,140",2907,Generation X
+Russian Federation,1997,male,15-24 years,5780,10874000,53.15,Russian Federation1997,,"404,926,534,140",2907,Generation X
+Russian Federation,1997,female,75+ years,1424,4360900,32.65,Russian Federation1997,,"404,926,534,140",2907,G.I. Generation
+Russian Federation,1997,female,55-74 years,3180,17453600,18.22,Russian Federation1997,,"404,926,534,140",2907,Silent
+Russian Federation,1997,female,35-54 years,2819,21047500,13.39,Russian Federation1997,,"404,926,534,140",2907,Boomers
+Russian Federation,1997,female,25-34 years,1050,9833800,10.68,Russian Federation1997,,"404,926,534,140",2907,Generation X
+Russian Federation,1997,female,15-24 years,945,10556600,8.95,Russian Federation1997,,"404,926,534,140",2907,Generation X
+Russian Federation,1997,male,5-14 years,346,11444500,3.02,Russian Federation1997,,"404,926,534,140",2907,Millenials
+Russian Federation,1997,female,5-14 years,76,10988200,0.69,Russian Federation1997,,"404,926,534,140",2907,Millenials
+Russian Federation,1998,male,35-54 years,18058,20487900,88.14,Russian Federation1998,,"270,953,116,950",1948,Boomers
+Russian Federation,1998,male,75+ years,1110,1261400,88,Russian Federation1998,,"270,953,116,950",1948,G.I. Generation
+Russian Federation,1998,male,55-74 years,9683,11058100,87.56,Russian Federation1998,,"270,953,116,950",1948,Silent
+Russian Federation,1998,male,25-34 years,7634,10104200,75.55,Russian Federation1998,,"270,953,116,950",1948,Generation X
+Russian Federation,1998,male,15-24 years,5729,11040600,51.89,Russian Federation1998,,"270,953,116,950",1948,Generation X
+Russian Federation,1998,female,75+ years,1431,4434700,32.27,Russian Federation1998,,"270,953,116,950",1948,G.I. Generation
+Russian Federation,1998,female,55-74 years,2917,17046200,17.11,Russian Federation1998,,"270,953,116,950",1948,Silent
+Russian Federation,1998,female,35-54 years,2715,21695000,12.51,Russian Federation1998,,"270,953,116,950",1948,Boomers
+Russian Federation,1998,female,25-34 years,902,9685600,9.31,Russian Federation1998,,"270,953,116,950",1948,Generation X
+Russian Federation,1998,female,15-24 years,927,10752700,8.62,Russian Federation1998,,"270,953,116,950",1948,Generation X
+Russian Federation,1998,male,5-14 years,333,11006800,3.03,Russian Federation1998,,"270,953,116,950",1948,Millenials
+Russian Federation,1998,female,5-14 years,79,10548900,0.75,Russian Federation1998,,"270,953,116,950",1948,Millenials
+Russian Federation,1999,male,55-74 years,10609,10669100,99.44,Russian Federation1999,,"195,905,767,669",1412,Silent
+Russian Federation,1999,male,35-54 years,20705,21016400,98.52,Russian Federation1999,,"195,905,767,669",1412,Boomers
+Russian Federation,1999,male,75+ years,1128,1310400,86.08,Russian Federation1999,,"195,905,767,669",1412,G.I. Generation
+Russian Federation,1999,male,25-34 years,8101,10022400,80.83,Russian Federation1999,,"195,905,767,669",1412,Generation X
+Russian Federation,1999,male,15-24 years,6120,11232900,54.48,Russian Federation1999,,"195,905,767,669",1412,Generation X
+Russian Federation,1999,female,75+ years,1490,4569600,32.61,Russian Federation1999,,"195,905,767,669",1412,G.I. Generation
+Russian Federation,1999,female,55-74 years,3072,16457600,18.67,Russian Federation1999,,"195,905,767,669",1412,Silent
+Russian Federation,1999,female,35-54 years,3128,22337800,14,Russian Federation1999,,"195,905,767,669",1412,Boomers
+Russian Federation,1999,female,25-34 years,1041,9616300,10.83,Russian Federation1999,,"195,905,767,669",1412,Generation X
+Russian Federation,1999,female,15-24 years,1080,10957600,9.86,Russian Federation1999,,"195,905,767,669",1412,Generation X
+Russian Federation,1999,male,5-14 years,402,10490300,3.83,Russian Federation1999,,"195,905,767,669",1412,Millenials
+Russian Federation,1999,female,5-14 years,98,10037400,0.98,Russian Federation1999,,"195,905,767,669",1412,Millenials
+Russian Federation,2000,male,35-54 years,21063,21378098,98.53,Russian Federation2000,,"259,708,496,267",1879,Boomers
+Russian Federation,2000,male,55-74 years,9656,10282841,93.9,Russian Federation2000,,"259,708,496,267",1879,Silent
+Russian Federation,2000,male,25-34 years,8654,10025181,86.32,Russian Federation2000,,"259,708,496,267",1879,Generation X
+Russian Federation,2000,male,75+ years,1165,1380292,84.4,Russian Federation2000,,"259,708,496,267",1879,G.I. Generation
+Russian Federation,2000,male,15-24 years,6578,11393600,57.73,Russian Federation2000,,"259,708,496,267",1879,Generation X
+Russian Federation,2000,female,75+ years,1382,4729070,29.22,Russian Federation2000,,"259,708,496,267",1879,G.I. Generation
+Russian Federation,2000,female,55-74 years,2646,15887955,16.65,Russian Federation2000,,"259,708,496,267",1879,Silent
+Russian Federation,2000,female,35-54 years,2926,22830770,12.82,Russian Federation2000,,"259,708,496,267",1879,Boomers
+Russian Federation,2000,female,25-34 years,1027,9648389,10.64,Russian Federation2000,,"259,708,496,267",1879,Generation X
+Russian Federation,2000,female,15-24 years,1015,11120027,9.13,Russian Federation2000,,"259,708,496,267",1879,Generation X
+Russian Federation,2000,male,5-14 years,404,9986252,4.05,Russian Federation2000,,"259,708,496,267",1879,Millenials
+Russian Federation,2000,female,5-14 years,103,9543220,1.08,Russian Federation2000,,"259,708,496,267",1879,Millenials
+Russian Federation,2001,male,35-54 years,21262,21476420,99,Russian Federation2001,,"306,602,673,980",2229,Boomers
+Russian Federation,2001,male,55-74 years,9234,10030533,92.06,Russian Federation2001,,"306,602,673,980",2229,Silent
+Russian Federation,2001,male,25-34 years,8886,10078045,88.17,Russian Federation2001,,"306,602,673,980",2229,Generation X
+Russian Federation,2001,male,75+ years,1236,1485110,83.23,Russian Federation2001,,"306,602,673,980",2229,Silent
+Russian Federation,2001,male,15-24 years,6945,11547645,60.14,Russian Federation2001,,"306,602,673,980",2229,Millenials
+Russian Federation,2001,female,75+ years,1349,4919708,27.42,Russian Federation2001,,"306,602,673,980",2229,Silent
+Russian Federation,2001,female,55-74 years,2471,15506563,15.94,Russian Federation2001,,"306,602,673,980",2229,Silent
+Russian Federation,2001,female,35-54 years,2920,23046634,12.67,Russian Federation2001,,"306,602,673,980",2229,Boomers
+Russian Federation,2001,female,25-34 years,1087,9733290,11.17,Russian Federation2001,,"306,602,673,980",2229,Generation X
+Russian Federation,2001,female,15-24 years,1065,11270161,9.45,Russian Federation2001,,"306,602,673,980",2229,Millenials
+Russian Federation,2001,male,5-14 years,389,9428879,4.13,Russian Federation2001,,"306,602,673,980",2229,Millenials
+Russian Federation,2001,female,5-14 years,114,8998521,1.27,Russian Federation2001,,"306,602,673,980",2229,Millenials
+Russian Federation,2002,male,35-54 years,20119,21320535,94.36,Russian Federation2002,,"345,110,438,692",2527,Boomers
+Russian Federation,2002,male,55-74 years,8850,9892090,89.47,Russian Federation2002,,"345,110,438,692",2527,Silent
+Russian Federation,2002,male,25-34 years,8696,10156286,85.62,Russian Federation2002,,"345,110,438,692",2527,Generation X
+Russian Federation,2002,male,75+ years,1297,1622258,79.95,Russian Federation2002,,"345,110,438,692",2527,Silent
+Russian Federation,2002,male,15-24 years,6667,11714752,56.91,Russian Federation2002,,"345,110,438,692",2527,Millenials
+Russian Federation,2002,female,75+ years,1452,5126645,28.32,Russian Federation2002,,"345,110,438,692",2527,Silent
+Russian Federation,2002,female,55-74 years,2472,15292297,16.17,Russian Federation2002,,"345,110,438,692",2527,Silent
+Russian Federation,2002,female,35-54 years,2910,22995821,12.65,Russian Federation2002,,"345,110,438,692",2527,Boomers
+Russian Federation,2002,female,25-34 years,1086,9838656,11.04,Russian Federation2002,,"345,110,438,692",2527,Generation X
+Russian Federation,2002,female,15-24 years,1054,11425220,9.23,Russian Federation2002,,"345,110,438,692",2527,Millenials
+Russian Federation,2002,male,5-14 years,338,8810074,3.84,Russian Federation2002,,"345,110,438,692",2527,Millenials
+Russian Federation,2002,female,5-14 years,83,8396266,0.99,Russian Federation2002,,"345,110,438,692",2527,Millenials
+Russian Federation,2003,male,75+ years,1497,1648684,90.8,Russian Federation2003,,"430,347,770,732",3141,Silent
+Russian Federation,2003,male,35-54 years,18681,21007346,88.93,Russian Federation2003,,"430,347,770,732",3141,Boomers
+Russian Federation,2003,male,55-74 years,8314,9920853,83.8,Russian Federation2003,,"430,347,770,732",3141,Silent
+Russian Federation,2003,male,25-34 years,8085,10260634,78.8,Russian Federation2003,,"430,347,770,732",3141,Generation X
+Russian Federation,2003,male,15-24 years,6134,12256012,50.05,Russian Federation2003,,"430,347,770,732",3141,Millenials
+Russian Federation,2003,female,75+ years,1420,5170321,27.46,Russian Federation2003,,"430,347,770,732",3141,Silent
+Russian Federation,2003,female,55-74 years,2214,15243314,14.52,Russian Federation2003,,"430,347,770,732",3141,Silent
+Russian Federation,2003,female,35-54 years,2718,23024470,11.8,Russian Federation2003,,"430,347,770,732",3141,Boomers
+Russian Federation,2003,female,25-34 years,1050,10257511,10.24,Russian Federation2003,,"430,347,770,732",3141,Generation X
+Russian Federation,2003,female,15-24 years,969,11942216,8.11,Russian Federation2003,,"430,347,770,732",3141,Millenials
+Russian Federation,2003,male,5-14 years,284,8328381,3.41,Russian Federation2003,,"430,347,770,732",3141,Millenials
+Russian Federation,2003,female,5-14 years,79,7960126,0.99,Russian Federation2003,,"430,347,770,732",3141,Millenials
+Russian Federation,2004,male,75+ years,1580,1776778,88.93,Russian Federation2004,,"591,016,690,743",4312,Silent
+Russian Federation,2004,male,35-54 years,17465,20843896,83.79,Russian Federation2004,,"591,016,690,743",4312,Boomers
+Russian Federation,2004,male,55-74 years,7715,9924764,77.73,Russian Federation2004,,"591,016,690,743",4312,Silent
+Russian Federation,2004,male,25-34 years,7955,10461766,76.04,Russian Federation2004,,"591,016,690,743",4312,Generation X
+Russian Federation,2004,male,15-24 years,5891,12425537,47.41,Russian Federation2004,,"591,016,690,743",4312,Millenials
+Russian Federation,2004,female,75+ years,1398,5370057,26.03,Russian Federation2004,,"591,016,690,743",4312,Silent
+Russian Federation,2004,female,55-74 years,2029,15236313,13.32,Russian Federation2004,,"591,016,690,743",4312,Silent
+Russian Federation,2004,female,35-54 years,2668,22956701,11.62,Russian Federation2004,,"591,016,690,743",4312,Boomers
+Russian Federation,2004,female,25-34 years,1042,10494419,9.93,Russian Federation2004,,"591,016,690,743",4312,Generation X
+Russian Federation,2004,female,15-24 years,992,12088752,8.21,Russian Federation2004,,"591,016,690,743",4312,Millenials
+Russian Federation,2004,male,5-14 years,288,7919935,3.64,Russian Federation2004,,"591,016,690,743",4312,Millenials
+Russian Federation,2004,female,5-14 years,73,7572781,0.96,Russian Federation2004,,"591,016,690,743",4312,Millenials
+Russian Federation,2005,male,75+ years,1599,1885942,84.79,Russian Federation2005,,"764,017,107,992",5611,Silent
+Russian Federation,2005,male,35-54 years,15843,20550405,77.09,Russian Federation2005,,"764,017,107,992",5611,Boomers
+Russian Federation,2005,male,25-34 years,7796,10578048,73.7,Russian Federation2005,,"764,017,107,992",5611,Generation X
+Russian Federation,2005,male,55-74 years,7144,9977150,71.6,Russian Federation2005,,"764,017,107,992",5611,Silent
+Russian Federation,2005,male,15-24 years,5750,12357989,46.53,Russian Federation2005,,"764,017,107,992",5611,Millenials
+Russian Federation,2005,female,75+ years,1304,5535287,23.56,Russian Federation2005,,"764,017,107,992",5611,Silent
+Russian Federation,2005,female,55-74 years,1884,15297324,12.32,Russian Federation2005,,"764,017,107,992",5611,Silent
+Russian Federation,2005,female,35-54 years,2311,22722081,10.17,Russian Federation2005,,"764,017,107,992",5611,Boomers
+Russian Federation,2005,female,25-34 years,992,10640505,9.32,Russian Federation2005,,"764,017,107,992",5611,Generation X
+Russian Federation,2005,female,15-24 years,904,12011488,7.53,Russian Federation2005,,"764,017,107,992",5611,Millenials
+Russian Federation,2005,male,5-14 years,206,7467908,2.76,Russian Federation2005,,"764,017,107,992",5611,Millenials
+Russian Federation,2005,female,5-14 years,69,7138064,0.97,Russian Federation2005,,"764,017,107,992",5611,Millenials
+Russian Federation,2006,male,75+ years,1701,1966649,86.49,Russian Federation2006,,"989,930,542,279",7313,Silent
+Russian Federation,2006,male,25-34 years,7584,10691395,70.94,Russian Federation2006,,"989,930,542,279",7313,Generation X
+Russian Federation,2006,male,35-54 years,14020,20336306,68.94,Russian Federation2006,,"989,930,542,279",7313,Boomers
+Russian Federation,2006,male,55-74 years,6562,10054153,65.27,Russian Federation2006,,"989,930,542,279",7313,Silent
+Russian Federation,2006,male,15-24 years,5319,12174930,43.69,Russian Federation2006,,"989,930,542,279",7313,Millenials
+Russian Federation,2006,female,75+ years,1401,5646287,24.81,Russian Federation2006,,"989,930,542,279",7313,Silent
+Russian Federation,2006,female,55-74 years,1719,15405634,11.16,Russian Federation2006,,"989,930,542,279",7313,Silent
+Russian Federation,2006,female,35-54 years,2189,22545749,9.71,Russian Federation2006,,"989,930,542,279",7313,Boomers
+Russian Federation,2006,female,25-34 years,974,10784340,9.03,Russian Federation2006,,"989,930,542,279",7313,Generation X
+Russian Federation,2006,female,15-24 years,869,11819245,7.35,Russian Federation2006,,"989,930,542,279",7313,Millenials
+Russian Federation,2006,male,5-14 years,201,7123987,2.82,Russian Federation2006,,"989,930,542,279",7313,Millenials
+Russian Federation,2006,female,5-14 years,75,6808787,1.1,Russian Federation2006,,"989,930,542,279",7313,Millenials
+Russian Federation,2007,male,75+ years,1660,2015773,82.35,Russian Federation2007,,"1,299,705,247,686",9643,Silent
+Russian Federation,2007,male,25-34 years,7483,10843276,69.01,Russian Federation2007,,"1,299,705,247,686",9643,Generation X
+Russian Federation,2007,male,35-54 years,13065,20173873,64.76,Russian Federation2007,,"1,299,705,247,686",9643,Boomers
+Russian Federation,2007,male,55-74 years,6151,10209479,60.25,Russian Federation2007,,"1,299,705,247,686",9643,Silent
+Russian Federation,2007,male,15-24 years,5257,11862129,44.32,Russian Federation2007,,"1,299,705,247,686",9643,Millenials
+Russian Federation,2007,female,75+ years,1358,5710937,23.78,Russian Federation2007,,"1,299,705,247,686",9643,Silent
+Russian Federation,2007,female,55-74 years,1738,15620091,11.13,Russian Federation2007,,"1,299,705,247,686",9643,Silent
+Russian Federation,2007,female,35-54 years,2176,22379725,9.72,Russian Federation2007,,"1,299,705,247,686",9643,Boomers
+Russian Federation,2007,female,25-34 years,1051,10944247,9.6,Russian Federation2007,,"1,299,705,247,686",9643,Generation X
+Russian Federation,2007,female,15-24 years,949,11502702,8.25,Russian Federation2007,,"1,299,705,247,686",9643,Millenials
+Russian Federation,2007,male,5-14 years,192,6911384,2.78,Russian Federation2007,,"1,299,705,247,686",9643,Generation Z
+Russian Federation,2007,female,5-14 years,69,6605348,1.04,Russian Federation2007,,"1,299,705,247,686",9643,Generation Z
+Russian Federation,2008,male,75+ years,1712,2029226,84.37,Russian Federation2008,,"1,660,844,408,500",12359,Silent
+Russian Federation,2008,male,25-34 years,6860,11091377,61.85,Russian Federation2008,,"1,660,844,408,500",12359,Generation X
+Russian Federation,2008,male,35-54 years,11848,20041975,59.12,Russian Federation2008,,"1,660,844,408,500",12359,Boomers
+Russian Federation,2008,male,55-74 years,5855,10403205,56.28,Russian Federation2008,,"1,660,844,408,500",12359,Silent
+Russian Federation,2008,male,15-24 years,4863,11377099,42.74,Russian Federation2008,,"1,660,844,408,500",12359,Millenials
+Russian Federation,2008,female,75+ years,1285,5714841,22.49,Russian Federation2008,,"1,660,844,408,500",12359,Silent
+Russian Federation,2008,female,55-74 years,1613,15906813,10.14,Russian Federation2008,,"1,660,844,408,500",12359,Silent
+Russian Federation,2008,female,35-54 years,2040,22229346,9.18,Russian Federation2008,,"1,660,844,408,500",12359,Boomers
+Russian Federation,2008,female,25-34 years,981,11179123,8.78,Russian Federation2008,,"1,660,844,408,500",12359,Generation X
+Russian Federation,2008,female,15-24 years,916,11025088,8.31,Russian Federation2008,,"1,660,844,408,500",12359,Millenials
+Russian Federation,2008,male,5-14 years,148,6848169,2.16,Russian Federation2008,,"1,660,844,408,500",12359,Generation Z
+Russian Federation,2008,female,5-14 years,90,6539687,1.38,Russian Federation2008,,"1,660,844,408,500",12359,Generation Z
+Russian Federation,2009,male,75+ years,1534,2012787,76.21,Russian Federation2009,,"1,222,643,696,992",9118,Silent
+Russian Federation,2009,male,25-34 years,7233,11373727,63.59,Russian Federation2009,,"1,222,643,696,992",9118,Generation X
+Russian Federation,2009,male,35-54 years,11721,19901557,58.89,Russian Federation2009,,"1,222,643,696,992",9118,Boomers
+Russian Federation,2009,male,55-74 years,5637,10645241,52.95,Russian Federation2009,,"1,222,643,696,992",9118,Silent
+Russian Federation,2009,male,15-24 years,4632,10819693,42.81,Russian Federation2009,,"1,222,643,696,992",9118,Millenials
+Russian Federation,2009,female,75+ years,1133,5657810,20.03,Russian Federation2009,,"1,222,643,696,992",9118,Silent
+Russian Federation,2009,female,55-74 years,1519,16287675,9.33,Russian Federation2009,,"1,222,643,696,992",9118,Silent
+Russian Federation,2009,female,35-54 years,1930,22050450,8.75,Russian Federation2009,,"1,222,643,696,992",9118,Boomers
+Russian Federation,2009,female,25-34 years,986,11440839,8.62,Russian Federation2009,,"1,222,643,696,992",9118,Generation X
+Russian Federation,2009,female,15-24 years,839,10472951,8.01,Russian Federation2009,,"1,222,643,696,992",9118,Millenials
+Russian Federation,2009,male,5-14 years,166,6869835,2.42,Russian Federation2009,,"1,222,643,696,992",9118,Generation Z
+Russian Federation,2009,female,5-14 years,78,6552868,1.19,Russian Federation2009,,"1,222,643,696,992",9118,Generation Z
+Russian Federation,2010,male,75+ years,1506,2023458,74.43,Russian Federation2010,,"1,524,916,112,079",11307,Silent
+Russian Federation,2010,male,25-34 years,6508,11398127,57.1,Russian Federation2010,,"1,524,916,112,079",11307,Generation X
+Russian Federation,2010,male,35-54 years,10304,19786280,52.08,Russian Federation2010,,"1,524,916,112,079",11307,Generation X
+Russian Federation,2010,male,55-74 years,5178,11174530,46.34,Russian Federation2010,,"1,524,916,112,079",11307,Silent
+Russian Federation,2010,male,15-24 years,3934,10546669,37.3,Russian Federation2010,,"1,524,916,112,079",11307,Millenials
+Russian Federation,2010,female,75+ years,1041,5711389,18.23,Russian Federation2010,,"1,524,916,112,079",11307,Silent
+Russian Federation,2010,female,55-74 years,1354,16921727,8,Russian Federation2010,,"1,524,916,112,079",11307,Silent
+Russian Federation,2010,female,25-34 years,893,11473939,7.78,Russian Federation2010,,"1,524,916,112,079",11307,Generation X
+Russian Federation,2010,female,35-54 years,1680,21894031,7.67,Russian Federation2010,,"1,524,916,112,079",11307,Generation X
+Russian Federation,2010,female,15-24 years,763,10241329,7.45,Russian Federation2010,,"1,524,916,112,079",11307,Millenials
+Russian Federation,2010,male,5-14 years,131,7012170,1.87,Russian Federation2010,,"1,524,916,112,079",11307,Generation Z
+Russian Federation,2010,female,5-14 years,64,6682338,0.96,Russian Federation2010,,"1,524,916,112,079",11307,Generation Z
+Russian Federation,2011,male,75+ years,1485,2093449,70.94,Russian Federation2011,,"2,051,661,732,060",15226,Silent
+Russian Federation,2011,male,25-34 years,6011,11598196,51.83,Russian Federation2011,,"2,051,661,732,060",15226,Millenials
+Russian Federation,2011,male,35-54 years,9411,19684905,47.81,Russian Federation2011,,"2,051,661,732,060",15226,Generation X
+Russian Federation,2011,male,55-74 years,4892,11401026,42.91,Russian Federation2011,,"2,051,661,732,060",15226,Boomers
+Russian Federation,2011,male,15-24 years,3569,10070836,35.44,Russian Federation2011,,"2,051,661,732,060",15226,Millenials
+Russian Federation,2011,female,75+ years,1103,5829088,18.92,Russian Federation2011,,"2,051,661,732,060",15226,Silent
+Russian Federation,2011,female,15-24 years,740,9723773,7.61,Russian Federation2011,,"2,051,661,732,060",15226,Millenials
+Russian Federation,2011,female,55-74 years,1300,17200185,7.56,Russian Federation2011,,"2,051,661,732,060",15226,Boomers
+Russian Federation,2011,female,25-34 years,843,11638171,7.24,Russian Federation2011,,"2,051,661,732,060",15226,Millenials
+Russian Federation,2011,female,35-54 years,1515,21733089,6.97,Russian Federation2011,,"2,051,661,732,060",15226,Generation X
+Russian Federation,2011,male,5-14 years,102,7052757,1.45,Russian Federation2011,,"2,051,661,732,060",15226,Generation Z
+Russian Federation,2011,female,5-14 years,67,6720399,1,Russian Federation2011,,"2,051,661,732,060",15226,Generation Z
+Russian Federation,2012,male,75+ years,1486,2211989,67.18,Russian Federation2012,,"2,210,256,976,945",16413,Silent
+Russian Federation,2012,male,25-34 years,5762,11845892,48.64,Russian Federation2012,,"2,210,256,976,945",16413,Millenials
+Russian Federation,2012,male,35-54 years,8755,19588712,44.69,Russian Federation2012,,"2,210,256,976,945",16413,Generation X
+Russian Federation,2012,male,55-74 years,4804,11597408,41.42,Russian Federation2012,,"2,210,256,976,945",16413,Boomers
+Russian Federation,2012,male,15-24 years,3275,9484213,34.53,Russian Federation2012,,"2,210,256,976,945",16413,Millenials
+Russian Federation,2012,female,75+ years,1095,6062562,18.06,Russian Federation2012,,"2,210,256,976,945",16413,Silent
+Russian Federation,2012,female,25-34 years,866,11827264,7.32,Russian Federation2012,,"2,210,256,976,945",16413,Millenials
+Russian Federation,2012,female,35-54 years,1572,21564691,7.29,Russian Federation2012,,"2,210,256,976,945",16413,Generation X
+Russian Federation,2012,female,55-74 years,1229,17375445,7.07,Russian Federation2012,,"2,210,256,976,945",16413,Boomers
+Russian Federation,2012,female,15-24 years,627,9131383,6.87,Russian Federation2012,,"2,210,256,976,945",16413,Millenials
+Russian Federation,2012,male,5-14 years,107,7159170,1.49,Russian Federation2012,,"2,210,256,976,945",16413,Generation Z
+Russian Federation,2012,female,5-14 years,65,6819793,0.95,Russian Federation2012,,"2,210,256,976,945",16413,Generation Z
+Russian Federation,2013,male,75+ years,1549,2349484,65.93,Russian Federation2013,,"2,297,128,039,058",17052,Silent
+Russian Federation,2013,male,25-34 years,5825,12057910,48.31,Russian Federation2013,,"2,297,128,039,058",17052,Millenials
+Russian Federation,2013,male,35-54 years,8815,19484117,45.24,Russian Federation2013,,"2,297,128,039,058",17052,Generation X
+Russian Federation,2013,male,55-74 years,4644,11808589,39.33,Russian Federation2013,,"2,297,128,039,058",17052,Boomers
+Russian Federation,2013,male,15-24 years,2770,8908926,31.09,Russian Federation2013,,"2,297,128,039,058",17052,Millenials
+Russian Federation,2013,female,75+ years,1000,6355318,15.73,Russian Federation2013,,"2,297,128,039,058",17052,Silent
+Russian Federation,2013,female,35-54 years,1454,21385188,6.8,Russian Federation2013,,"2,297,128,039,058",17052,Generation X
+Russian Federation,2013,female,25-34 years,803,11984461,6.7,Russian Federation2013,,"2,297,128,039,058",17052,Millenials
+Russian Federation,2013,female,55-74 years,1154,17517861,6.59,Russian Federation2013,,"2,297,128,039,058",17052,Boomers
+Russian Federation,2013,female,15-24 years,511,8554683,5.97,Russian Federation2013,,"2,297,128,039,058",17052,Millenials
+Russian Federation,2013,male,5-14 years,111,7327888,1.51,Russian Federation2013,,"2,297,128,039,058",17052,Generation Z
+Russian Federation,2013,female,5-14 years,54,6979537,0.77,Russian Federation2013,,"2,297,128,039,058",17052,Generation Z
+Russian Federation,2014,male,75+ years,1597,2349484,67.97,Russian Federation2014,,"2,063,662,665,172",15319,Silent
+Russian Federation,2014,male,25-34 years,5276,12057910,43.76,Russian Federation2014,,"2,063,662,665,172",15319,Millenials
+Russian Federation,2014,male,35-54 years,8105,19484117,41.6,Russian Federation2014,,"2,063,662,665,172",15319,Generation X
+Russian Federation,2014,male,55-74 years,4501,11808589,38.12,Russian Federation2014,,"2,063,662,665,172",15319,Boomers
+Russian Federation,2014,male,15-24 years,2311,8908926,25.94,Russian Federation2014,,"2,063,662,665,172",15319,Millenials
+Russian Federation,2014,female,75+ years,1019,6355318,16.03,Russian Federation2014,,"2,063,662,665,172",15319,Silent
+Russian Federation,2014,female,55-74 years,1105,17517861,6.31,Russian Federation2014,,"2,063,662,665,172",15319,Boomers
+Russian Federation,2014,female,35-54 years,1297,21385188,6.06,Russian Federation2014,,"2,063,662,665,172",15319,Generation X
+Russian Federation,2014,female,25-34 years,723,11984461,6.03,Russian Federation2014,,"2,063,662,665,172",15319,Millenials
+Russian Federation,2014,female,15-24 years,467,8554683,5.46,Russian Federation2014,,"2,063,662,665,172",15319,Millenials
+Russian Federation,2014,male,5-14 years,96,7327888,1.31,Russian Federation2014,,"2,063,662,665,172",15319,Generation Z
+Russian Federation,2014,female,5-14 years,44,6979537,0.63,Russian Federation2014,,"2,063,662,665,172",15319,Generation Z
+Russian Federation,2015,male,75+ years,1519,2608590,58.23,Russian Federation2015,,"1,368,400,705,491",9987,Silent
+Russian Federation,2015,male,35-54 years,7898,19598084,40.3,Russian Federation2015,,"1,368,400,705,491",9987,Generation X
+Russian Federation,2015,male,25-34 years,4994,12407057,40.25,Russian Federation2015,,"1,368,400,705,491",9987,Millenials
+Russian Federation,2015,male,55-74 years,4443,12564884,35.36,Russian Federation2015,,"1,368,400,705,491",9987,Boomers
+Russian Federation,2015,male,15-24 years,1928,7995706,24.11,Russian Federation2015,,"1,368,400,705,491",9987,Millenials
+Russian Federation,2015,female,75+ years,953,6957819,13.7,Russian Federation2015,,"1,368,400,705,491",9987,Silent
+Russian Federation,2015,female,35-54 years,1391,21387236,6.5,Russian Federation2015,,"1,368,400,705,491",9987,Generation X
+Russian Federation,2015,female,25-34 years,730,12264840,5.95,Russian Federation2015,,"1,368,400,705,491",9987,Millenials
+Russian Federation,2015,female,55-74 years,1062,18280577,5.81,Russian Federation2015,,"1,368,400,705,491",9987,Boomers
+Russian Federation,2015,female,15-24 years,378,7653174,4.94,Russian Federation2015,,"1,368,400,705,491",9987,Millenials
+Russian Federation,2015,male,5-14 years,79,7836667,1.01,Russian Federation2015,,"1,368,400,705,491",9987,Generation Z
+Russian Federation,2015,female,5-14 years,57,7464309,0.76,Russian Federation2015,,"1,368,400,705,491",9987,Generation Z
